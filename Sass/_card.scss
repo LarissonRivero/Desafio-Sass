@@ -1,0 +1,11 @@
+.card{
+    width: 30%;
+    border: 1px solid;
+    padding: 20px;
+}
+.principal, .card-title{
+    color: $personality;
+}
+.card-text, h4{
+    color: $text-white;
+}

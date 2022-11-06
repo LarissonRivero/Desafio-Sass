@@ -1,0 +1,33 @@
+.card {
+  font-family: "Dancing Script", cursive;
+}
+
+.principal {
+  font-size: 200px;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.card {
+  width: 30%;
+  border: 1px solid;
+  padding: 20px;
+}
+
+.principal, .card-title {
+  color: #ac166d;
+}
+
+.card-text, h4 {
+  color: white;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}/*# sourceMappingURL=style.css.map */
