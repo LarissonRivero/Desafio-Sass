@@ -1,4 +1,9 @@
+%card-font {
+    font-family: 'Dancing Script', cursive;
+  }
+
 .card{
+    @extend %card-font;
     width: 30%;
     border: 1px solid;
     padding: 20px;

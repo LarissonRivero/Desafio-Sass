@@ -1,1 +1,1 @@
-.card{font-family:'Dancing Script', cursive}.principal{font-size:200px}main{display:flex;flex-direction:column;align-items:center}.card{width:30%;border:1px solid;padding:20px}.principal,.card-title{color:#ac166d}.card-text,h4{color:#fff}*{padding:0;margin:0;box-sizing:border-box}
+main{display:flex;flex-direction:column;align-items:center}.card{font-family:'Dancing Script', cursive}.card{width:30%;border:1px solid;padding:20px}.principal,.card-title{color:#ac166d}.card-text,h4{color:#fff}*{padding:0;margin:0;box-sizing:border-box}
